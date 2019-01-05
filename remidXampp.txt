@@ -1,0 +1,4 @@
+ sudo /etc/init.d/apache2 stop
+ sudo ./manager-linux-x64.run 
+sudo /opt/lampp/lampp start
+
